@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>figan.id</title>
-    <link>https://talentafigan.github.io/figan.id/</link>
+    <link>https://figan.id/</link>
     <description>Recent content on figan.id</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2023 Talenta Maulana Figan</copyright><atom:link href="https://talentafigan.github.io/figan.id/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Talenta Maulana Figan</copyright><atom:link href="https://figan.id/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
