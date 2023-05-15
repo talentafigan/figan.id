@@ -16,8 +16,7 @@ params:
   keywords: [Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  DateFormat: "May 15, 2023"
-  defaultTheme: dark # dark, light
+  defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   profileMode:
