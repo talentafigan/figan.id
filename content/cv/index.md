@@ -8,11 +8,11 @@ draft: false
 
   
 
-**Fullstack Developer**, **Freelancer**
+**Software Engginer**, **Freelancer**, **Tech enthusiast**.
 
   
 
-Talenta Figan is a Fullstack Developer, and Freelancer with over 3 years of hands-on experience in Javascript programming languages on the industry.
+Talenta Figan is a Software Engginer, and Freelancer with over 3 years of hands-on experience in Javascript programming languages on the industry.
 I like being in a technical position in application development,
 Implement business processes into logical code and present data in an easy-to-understand view.
 I am skilled in building scalable and maintainable applications

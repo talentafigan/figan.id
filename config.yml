@@ -22,7 +22,7 @@ params:
   profileMode:
         enabled: true
         title: Talenta Figan
-        subtitle: "Fullstack Developer, Freelancer"
+        subtitle: "Software Engginer, Freelancer, Tech enthusiast."
         imageUrl: "talentafigan.jpg" # optional
         imageTitle: "Talenta Figan" # optional
         imageWidth: 120 # custom size
