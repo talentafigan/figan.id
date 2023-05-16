@@ -14,27 +14,39 @@ copyright :  © 2023 Talenta Maulana Figan
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   keywords: [Portfolio]
-  author: Me
+  author: Figan
   # author: ["Me", "You"] # multiple authors
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
   profileMode:
         enabled: true
         title: Talenta Figan
-        subtitle: "Freelance Software Engginer"
+        subtitle: "Fullstack Developer, Freelancer"
         imageUrl: "talentafigan.jpg" # optional
         imageTitle: "Talenta Figan" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
           - name: Let me work with you!
-            url: ""
-          - name: See Portofolio
-            url: "https://github.com/talentafigan"
+            url: "/contact"
+          - name: See my work
+            url: "https://figan.id/cv/#professional-projects"
 
   socialIcons:
     - name: github
       url: "https://github.com/talentafigan"
     - name: linkedin
       url: "https://www.linkedin.com/in/talenta-figan-21364b180/"
+
+
+menu:
+  main:
+    - identifier: about
+      name: About Me
+      url: /cv/
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 10
