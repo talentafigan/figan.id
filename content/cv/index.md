@@ -68,6 +68,15 @@ Assigned in digital product division to build a scalable and maintainable web-ba
 
 ---------
 
+## Skills
+
+- **Language** : Typescript , Javascript , Java , Solidity
+- **Framework** : React.JS , Next.JS , Vue.JS , Nuxt.JS , Express.JS , Nest.JS , Spring Boot
+- **Project Management** : Jira , Clickup , Trello , Airtable , Gitlab
+- **Tools** : Nx.Dev
+
+---------
+
   
 
 ## Contact
