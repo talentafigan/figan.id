@@ -1,5 +1,5 @@
-baseURL: "https://figan.id/"
-title: figan.id
+baseURL: "https://talentafigan.github.io/"
+title: Talenta Figan
 theme: PaperMod
 
 # build
@@ -9,7 +9,7 @@ buildExpired: false
 
 enableGitInfo : true
 
-copyright :  © 2023 Talenta Maulana Figan
+copyright :  © 2024 Talenta Figan
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -22,16 +22,16 @@ params:
   profileMode:
         enabled: true
         title: Talenta Figan
-        subtitle: "Software Engginer, Freelancer, Tech enthusiast."
+        subtitle: "Software Engginer, Tech enthusiast"
         imageUrl: "talentafigan.jpg" # optional
         imageTitle: "Talenta Figan" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
-          - name: Let me work with you!
+          - name: Work with me  
             url: "/contact"
-          - name: See my work
-            url: "https://figan.id/cv/#professional-projects"
+          - name: See my works
+            url: "https://talentafigan.github.io/cv/#professional-projects"
 
   socialIcons:
     - name: github

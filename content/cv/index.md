@@ -1,18 +1,12 @@
----
-date: 2023-05-17T03:34:14.625Z
-draft: false
----  
-
-
 # Talenta Figan
 
   
 
-**Software Engginer**, **Freelancer**, **Tech enthusiast**.
+**Software Engginer**, **Tech enthusiast**.
 
   
 
-Talenta Figan is a Software Engginer, and Freelancer with over 3 years of hands-on experience in Javascript programming languages on the industry.
+Talenta Figan is a Software Engginer, and Freelancer with over 4 years of hands-on experience in Javascript programming languages on the industry.
 I like being in a technical position in application development,
 Implement business processes into logical code and present data in an easy-to-understand view.
 I am skilled in building scalable and maintainable applications
@@ -27,6 +21,7 @@ I am skilled in building scalable and maintainable applications
 | Assists Web | web-based employe management system to accommodate factory operations from Japan | *Aug 2022 - Des 2023* | Typescript , React.JS
 | [Wow Konsultant](https://wowkonsultan.com/) | A B2C platform that brings together consultants and customers for activities such as business, legal and tax consulting enabling synchronous video calls & chats | *Sep 2022 - May 2022* | Laravel , Vue.JS , [Socket.IO](https://socket.io/)
 | [Wofhoo](https://fsisystem.com/) | Virtual office application with visualization of a real office floor plan that makes it possible to move all office administrative operations to an application with various features such as attendance, online face-to-face meetings and chat | *Des 2022 - May 2022* | Laravel , Vue.JS , [Easystar Pathfinder](https://easystarjs.com/)
+| IDX Portal of [Bursa Efek Indonesia](https://idx.co.id/) | Web-based administration portal of internal indonesian stock exchange members  | *May 2022 - Present* | Javascript , Next.JS
 
   
 -----
@@ -55,16 +50,14 @@ Bandung, Jawa Barat, Indonesia
 
 *tech* : Typescript, Nuxt.JS, Nest.JS
 
-### PT Rectmedia Komputindo (2023)
+### PT Rectmedia Komputindo (2023 - Present)
 Semarang, Jawa Tengah, Indonesia
 #### Front End Developer
-Assigned in digital product division to build a scalable and maintainable web-based [Firtual office system](https://fsisystem.com)
-
-- Develop & maintain the front side of features related to floor module
-- Collaborate with backend developers for technical integration to ensure high quality delivery
+- build a scalable and maintainable web-based Firtual office system By Asiaquest Indonesia [Firtual office system](https://fsisystem.com)
+- Assigned in BEI-IDX Portal team build web-based internal stock Exchange administrator by [PT Bursa Efek Indonesia](https://idx.co.id)
 
 
-*tech* : Laravel, Vue.JS, [Easystar Pathfinder](https://easystarjs.com/)
+*tech* : Javascript, Next.JS, Vue.JS, [Easystar Pathfinder](https://easystarjs.com/)
 
 ---------
 
@@ -80,6 +73,6 @@ Assigned in digital product division to build a scalable and maintainable web-ba
 ## Contact
   
 
-- Email : [contact@figan.id](mailto:contact@figan.id)
+- Email : [talentafigan@gmail.com](mailto:talentafigan@gmail.com)
 - Telegram : [@talentamfigan](https://t.me/talentamfigan)
 
